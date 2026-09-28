@@ -1,3 +1,5 @@
+Tutoriel adapté de https://rtavenar.github.io/tuto-git/src/intro.html
+
 # Scénario 1 - Utiliser `git` pour un travail individuel
 
 Pour toute cette première activité, vous jouerez le rôle d'une developpeuse ou d'un développeur qui code un projet dans son coin.
